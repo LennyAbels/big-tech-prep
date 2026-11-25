@@ -9,4 +9,5 @@ Repositorio de preparación técnica: algoritmos en Java, desarrollo backend y c
 | 1 | Two Sum | Arrays & Hashing | O(n²) | O(1) | [Java](./leetcode/arrays-hashing/TwoSum.java) |
 | 217 | Contains Duplicate | Arrays & Hashing | O(n) | O(n) | [Java](./leetcode/arrays-hashing/ContainsDuplicate.java) |
 | 242 | Valid Anagram | Arrays & Hashing | O(n) | O(1) | [Java](./leetcode/arrays-hashing/ValidAnagram.java) |
-EOF
+| 125 | Valid Palindrome | Two Pointers | O(n) | O(1) | [Java](./leetcode/two-pointers/ValidPalindrome.java) |
+| 121 | Best Time to Buy and Sell Stock | Two Pointers | O(n) | O(1) | [Java](./leetcode/two-pointers/BestTimeToBuyAndSellStock.java) |
