@@ -11,3 +11,7 @@ Repositorio de preparación técnica: algoritmos en Java, desarrollo backend y c
 | 242 | Valid Anagram | Arrays & Hashing | O(n) | O(1) | [Java](./leetcode/arrays-hashing/ValidAnagram.java) |
 | 125 | Valid Palindrome | Two Pointers | O(n) | O(1) | [Java](./leetcode/two-pointers/ValidPalindrome.java) |
 | 121 | Best Time to Buy and Sell Stock | Two Pointers | O(n) | O(1) | [Java](./leetcode/two-pointers/BestTimeToBuyAndSellStock.java) |
+
+## Desarrollo Backend (Spring Boot)
+
+- **[backend-api](./backend-api)**: API REST en Java 17 y Spring Web con endpoint de verificación (`GET /hola`) y CRUD completo en memoria (`POST`, `GET`, `PUT`, `DELETE` en `/api/tasks`).
