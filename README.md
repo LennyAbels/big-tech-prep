@@ -1,6 +1,6 @@
 # Big Tech Prep
 
-Repositorio de preparación técnica: algoritmos en Java, desarrollo backend y cloud.
+Repositorio de preparación técnica: algoritmos en Java, desarrollo backend, clientes en Python y despliegue en la nube.
 
 ## Progreso de Algoritmos (LeetCode)
 
@@ -16,6 +16,7 @@ Repositorio de preparación técnica: algoritmos en Java, desarrollo backend y c
 | 238 | Product of Array Except Self | Arrays & Hashing | O(n) | O(1) | [Java](./leetcode/arrays-hashing/ProductOfArrayExceptSelf.java) |
 | 128 | Longest Consecutive Sequence | Arrays & Hashing | O(n) | O(n) | [Java](./leetcode/arrays-hashing/LongestConsecutiveSequence.java) |
 
-## Desarrollo Backend (Spring Boot)
+## Desarrollo Backend & Cloud
 
-- **[backend-api](./backend-api)**: API REST en Java 17 y Spring Web con endpoint de verificación (`GET /hola`) y CRUD completo en memoria (`POST`, `GET`, `PUT`, `DELETE` en `/api/tasks`).
+- **[backend-api](./backend-api)**: API REST en Java 25, Spring Boot y Spring Data JPA conectada a base de datos SQL (H2), dockerizada (Eclipse Temurin 25) y desplegada en Render (`https://big-tech-prep.onrender.com/api/tasks`).
+- **[python-client](./python-client/api_client.py)**: Cliente HTTP en Python (`requests`) para consumir los endpoints CRUD con manejo de excepciones y timeouts.
